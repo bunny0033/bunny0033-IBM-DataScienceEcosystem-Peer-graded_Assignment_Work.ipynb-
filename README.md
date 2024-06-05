@@ -1,8 +1,5 @@
-# bunny0033-IBM-DataScienceEcosystem-Peer-graded_Assignment_Work.ipynb
 # Assignment Topic:
-This assignment is about to complete total13 exercises,
-In this assignment some of the tasks required markdown cells
-and some of code cells so i need to include combination of markdown cells and code cells
+I was provided with an empty Jupyterlite notebook which I launched in the course, to complete this assignment. I needed to include a combination of markdown and code cells. I did not needed to use the Markdown cheat sheet to help me determine the appropriate syntax for my markdown.
 
 # there are total 13 exercises:
 Exercise 2 - Create a notebook of name DataScienceEcosystem.
